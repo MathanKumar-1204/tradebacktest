@@ -1,0 +1,12 @@
+flask
+flask-cors
+lumibot
+alpaca-trade-api
+timedelta
+multiprocessing-logging
+transformers
+torch
+yahoo_fin
+pandas
+numpy
+typing
